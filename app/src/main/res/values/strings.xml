@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string-array name="priority">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="task_title_hint">Enter task title</string>
+    <string name="task_title_text">Title</string>
+    <string name="task_priority">PRIORITY:</string>
+    <string name="task_note_text">Notes</string>
+    <string name="task_note_hint">Enter some notes for your task</string>
+    <string name="task_details_text">Reminder Date/Time</string>
+    <string name="task_completed_text">Mark As Completed</string>
+    <string name="date_picker_title">Select Date</string>
+    <string name="time_picker_title">Select Time</string>
+    <string name="remove_dialog_title">Remove this task?</string>
+    <string name="new_task">New Task</string>
+    <string name="remove_task">Remove</string>
+    <string name="show_subtitle">Show Task(s)</string>
+    <string name="hide_subtitle">Hide Task(s)</string>
+    <string name="subtitle_format">%1$d Task(s)</string>
+    <string name="reminder_button_text">Set Reminder</string>
+    <string name="reminder_hint">Reminder Set!</string>
+
+</resources>
